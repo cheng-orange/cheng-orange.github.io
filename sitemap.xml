@@ -37,13 +37,6 @@
   </url>
   
   <url>
-    <loc>http://cheng-orange.gith.io/categories/index.html</loc>
-    
-    <lastmod>2019-09-25T14:13:10.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://cheng-orange.gith.io/archives/index.html</loc>
     
     <lastmod>2019-09-25T14:13:10.000Z</lastmod>
@@ -52,6 +45,13 @@
   
   <url>
     <loc>http://cheng-orange.gith.io/tags/index.html</loc>
+    
+    <lastmod>2019-09-25T14:13:10.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://cheng-orange.gith.io/categories/index.html</loc>
     
     <lastmod>2019-09-25T14:13:10.000Z</lastmod>
     
